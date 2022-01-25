@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-https://twitter.com/itsKarad
-
+https://adityakarad.com
 <!--
 **adityakarad17/adityakarad17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
