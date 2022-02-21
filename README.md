@@ -1,5 +1,12 @@
-### Hi there 👋
-https://adityakarad.com
+## Hi there I'm Aditya Karad 👋
+Portfolio → https://adityakarad.com
+
+Projects → https://adityakarad.com/projects
+
+Code → https://github.com/itsKarad
+
+Words → https://blog.adityakarad.com
+
 <!--
 **adityakarad17/adityakarad17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
