@@ -1,11 +1,11 @@
 ## Hi there I'm Aditya Karad 👋
-Portfolio → https://adityakarad.com
+Portfolio → [adityakarad.com](https://adityakarad.com)
 
-Projects → https://adityakarad.com/projects
+Projects → [adityakarad.com/projects](https://adityakarad.com/projects)
 
-Code → https://github.com/itsKarad
+Words → [blog.adityakarad.com](https://blog.adityakarad.com)
 
-Words → https://blog.adityakarad.com
+Code → [GitHub](https://github.com/itsKarad?tab=repositories)
 
 <!--
 **adityakarad17/adityakarad17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
