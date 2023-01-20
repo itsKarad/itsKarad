@@ -3,7 +3,7 @@ Portfolio → [adityakarad.com](https://adityakarad.com)
 
 Projects → [adityakarad.com/projects](https://adityakarad.com/projects)
 
-Words → [blog.adityakarad.com](https://blog.adityakarad.com)
+Words → [CodingChronicles](https://codingchronicles.adityakarad.com/)
 
 Code → [GitHub](https://github.com/itsKarad?tab=repositories)
 
