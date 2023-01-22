@@ -7,7 +7,7 @@ Words → [CodingChronicles](https://codingchronicles.adityakarad.com/)
 
 Code → [GitHub](https://github.com/itsKarad?tab=repositories)
 
-## Technical articles/tutorials
+## Technical pieces
 
 [Coding Chronicles — Setting up CI/CD Pipeline for a React app using Travis CI ](https://codingchronicles.adityakarad.com/ci-cd-for-react-project-using-travis-ci)
 
