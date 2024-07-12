@@ -1,15 +1,11 @@
-## Hi there I'm Aditya Karad 👋
-Portfolio → [adityakarad.com](https://adityakarad.com)
+## Heyo
+I'm currently finishing my masters at UC Irvine. Previously — Software Engineer @ JP Morgan, graduated from IIT Roorkee.
+I'm (trying) to write regularly on my blog, [Bytes & Logs](https://bytesandlogs.me/).
 
-Projects → [adityakarad.com/projects](https://adityakarad.com/projects)
+Here's my website → [adityakarad.com](https://adityakarad.com)
 
-Words → [CodingChronicles](https://codingchronicles.adityakarad.com/)
+I've worked on a few projects → [adityakarad.com/projects](https://adityakarad.com/projects)
 
-Code → [GitHub](https://github.com/itsKarad?tab=repositories)
-
-## Technical pieces
-
-[Coding Chronicles — Setting up CI/CD Pipeline for a React app using Travis CI ](https://codingchronicles.adityakarad.com/ci-cd-for-react-project-using-travis-ci)
 
 
 
