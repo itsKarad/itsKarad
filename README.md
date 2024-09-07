@@ -1,11 +1,4 @@
-## Heyo
-I'm currently finishing my masters at UC Irvine. Previously — Software Engineer @ JP Morgan, graduated from IIT Roorkee.
-I'm (trying) to write regularly on my blog, [Bytes & Logs](https://bytesandlogs.me/).
-
-Here's my website → [adityakarad.com](https://adityakarad.com)
-
-I've worked on a few projects → [adityakarad.com/projects](https://adityakarad.com/projects)
-
+[adityakarad.com](https://adityakarad.com)
 
 
 
